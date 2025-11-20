@@ -58,12 +58,3 @@ Projede desteklenen duygular:
 
 ![Uygulama Ekranı](beyinson.png)
 
----
-
-
-
----
-
-## ⬇️ Kullanım İzni
-
-MIT Lisansı altında paylaşılabilir ve geliştirilebilir.
