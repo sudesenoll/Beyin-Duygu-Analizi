@@ -60,12 +60,7 @@ Projede desteklenen duygular:
 
 ---
 
-## ➕ Devamında Neler Eklenebilir?
 
-- Farklı dil desteği (İngilizce, Almanca)
-- Daha gelişmiş BERT modelleri
-- Kullanıcıdan sesli giriş
-- Veya chatbot entegrasyonu
 
 ---
 
